@@ -1,5 +1,5 @@
- 
 def questions
+
 	while true
 
 		puts "Type a Question to get an answer, or type QUIT to end the program."
